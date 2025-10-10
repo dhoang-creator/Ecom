@@ -1,15 +1,3 @@
-# microservices_template
-Spring Boot Java Microservices Template with basic SQL et al Spring Modules.
+# Ecom
 
-Spring Boot Initiliazer Modules include:
-- Spring Web
-- Spring Boot DevTools
-- Spring Data JPA
-- H2 Database
-- MySQL Driver
-- PostgreSQL Driver
-- Lombok
-- Validation
-- Spring Boot Actuator
-- Config Client
-- OAuth2 Authorization Server
+Ecommerce Microservice built with Spring Boot Java and optimised with CQRS and Event Driven Architecture for Interoperability with Kafka.
