@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroservicesTemplateApplication {
+public class main {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MicroservicesTemplateApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(main.class, args);
+    }
 }
